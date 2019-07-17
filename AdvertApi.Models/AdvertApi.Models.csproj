@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>Kaushik</Authors>
+    <PackageProjectUrl>https://github.com/kaushiks90/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kaushiks90/WebAdvert.AdvertApi</RepositoryUrl>
+    <PackageId>KaushikAdvertApi.Models</PackageId>
+    <Product>KaushikAdvertApi.Models</Product>
+  </PropertyGroup>
+
+</Project>
